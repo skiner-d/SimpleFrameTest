@@ -26,7 +26,7 @@ class SimpleFrame extends JFrame {
 
 	private String title = "Default title";
 
-	JPanel panel;
+	JPanel pane
 
 	private void constructFrame() {
 		setTitle(title);
